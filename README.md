@@ -15,4 +15,4 @@ Email Service has a queue which receives tour booking confirmations only.
 
 BackOffice has a queue which receives any confirmation or cancellation messages.
 
-DeadLetters is deal with DeadLetter messages.
+DeadLetters is to deal with DeadLetter messages.
